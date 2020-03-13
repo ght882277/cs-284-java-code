@@ -1,3 +1,4 @@
+///hantao guo
 public class MyStackList<Item> {
    private Node first = null;
 
